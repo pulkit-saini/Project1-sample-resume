@@ -1,0 +1,43 @@
+#skillsec{
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+ margin: 0;
+}
+#contentdiv{
+    background-color: #FFAD60;
+}
+#photo{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+    overflow: hidden;
+
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+#header{
+    display: flex;
+     justify-content: space-between;
+     background-color: #A02334;
+    
+}
+
+#contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 20px ;
+}
+h2{
+    
+    text-align: center;
+}
